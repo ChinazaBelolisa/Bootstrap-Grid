@@ -1,0 +1,20 @@
+@media (min-width: 1025px) {
+    .col-lg-4 {
+        background-color: #DDCCFF;
+        border: 1px solid purple;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+    .col-md-6 {
+        background-color: #FFDDCC;
+        border: 1px solid purple;
+    }
+}
+
+@media (max-width: 767px) {
+    .col-12 {
+      background-color: #DDDDDD;
+      border: 1px solid purple;
+    }
+  } 
